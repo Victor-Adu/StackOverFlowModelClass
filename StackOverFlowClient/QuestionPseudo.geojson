@@ -1,0 +1,26 @@
+{
+    "tags": [
+             "constructor",
+             "swift"
+             ],
+    "owner": {
+        "reputation": 85,
+        "user_id": 3400034,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://www.gravatar.com/avatar/e118084a630c156dd8a99d746efdf133?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Calimari328",
+        "link": "http://stackoverflow.com/users/3400034/calimari328"
+    },
+    "is_answered": true,
+    "view_count": 1429,
+    "accepted_answer_id": 24289479,
+    "answer_count": 3,
+    "score": 2,
+    "last_activity_date": 1406579886,
+    "creation_date": 1401854538,
+    "last_edit_date": 1401855043,
+    "question_id": 24028786,
+    "link": "http://stackoverflow.com/questions/24028786/swift-class-is-not-constructible",
+    "title": "Swift Class is not constructible"
+}

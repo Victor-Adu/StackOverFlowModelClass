@@ -1,0 +1,24 @@
+{
+    "tags": [
+             "swift",
+             "closures"
+             ],
+    "owner": {
+        "reputation": 31,
+        "user_id": 3814799,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b1c2b95d26464f8ff8b03d8580df4fcc?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Jake",
+        "link": "http://stackoverflow.com/users/3814799/jake"
+    },
+    "is_answered": true,
+    "view_count": 21,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1406579478,
+    "creation_date": 1406570704,
+    "last_edit_date": 1406576191,
+    "question_id": 25001434,
+    "link": "http://stackoverflow.com/questions/25001434/int-in-swift-closure-not-incrementing",
+    "title": "Int in swift closure not incrementing"
+}

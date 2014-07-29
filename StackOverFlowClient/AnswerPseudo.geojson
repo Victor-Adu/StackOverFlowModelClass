@@ -1,0 +1,23 @@
+{
+    "tags": [
+             "swift"
+             ],
+    "owner": {
+        "reputation": 196,
+        "user_id": 2062613,
+        "user_type": "registered",
+        "accept_rate": 36,
+        "profile_image": "https://www.gravatar.com/avatar/6a9b57ada48a33ad7eb6e048cddd9903?s=128&d=identicon&r=PG",
+        "display_name": "Lupurus",
+        "link": "http://stackoverflow.com/users/2062613/lupurus"
+    },
+    "is_answered": false,
+    "view_count": 17,
+    "answer_count": 3,
+    "score": 0,
+    "last_activity_date": 1406579602,
+    "creation_date": 1406577333,
+    "question_id": 25003264,
+    "link": "http://stackoverflow.com/questions/25003264/xcode-beta-4-downcast-to-float",
+    "title": "Xcode beta 4 downcast to float"
+}
